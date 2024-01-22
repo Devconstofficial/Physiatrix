@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611533837404",
+    "project_id": "physiatrix1",
+    "storage_bucket": "physiatrix1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611533837404:android:d2c7ae170e67e3bc2cc299",
+        "android_client_info": {
+          "package_name": "com.example.physiatrix1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611533837404-39rpor6udl8u3hk7102gtt9lqju7nsh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTDEZP0WJsX7PdwoN6AuBuMvGcy8Am2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611533837404-0hic3urpapjun7s7en8egm3ton9t66ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

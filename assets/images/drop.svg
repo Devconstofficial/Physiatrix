@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Play">
+<mask id="mask0_905_1826" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<rect id="Bounding box" x="24" width="24" height="24" transform="rotate(90 24 0)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_905_1826)">
+<path id="play_arrow" d="M5.97504 9.525C5.75838 9.19167 5.74604 8.854 5.93804 8.512C6.12938 8.17067 6.42504 8 6.82504 8L17.175 8C17.575 8 17.871 8.17067 18.063 8.512C18.2544 8.854 18.2417 9.19167 18.025 9.525L12.85 17.675C12.65 17.975 12.3667 18.125 12 18.125C11.6334 18.125 11.35 17.975 11.15 17.675L5.97504 9.525Z" fill="#677294"/>
+</g>
+</g>
+</svg>
